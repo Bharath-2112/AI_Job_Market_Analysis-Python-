@@ -7,3 +7,9 @@ This project explores trends in the AI job market using data analysis techniques
 - Salary Insights – Analyzes salary trends for AI roles.
 - Geographical Trends – Maps AI job opportunities by region.
 - Visualization – Uses charts and graphs for better understanding.
+
+## Requirements
+- Python 3.x
+- Jupyter Notebook
+- Pandas, NumPy, Matplotlib, Seaborn
+
