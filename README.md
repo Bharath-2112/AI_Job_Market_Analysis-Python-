@@ -1,6 +1,5 @@
 # AI_Job_Market_Analysis-Python-
-This project explores trends in the AI job market using data analysis techniques. The notebook examines job demand, required skills, salary trends, and regional distribution of AI-related roles.
-
+This project analyzes trends in the AI job market, providing insights into demand, required skills, salaries, and geographical distribution.
 ## Features
 - Data Collection & Cleaning – Preprocessing job listing datasets for analysis.
 - Skill Trends Analysis – Identifies top AI-related skills in demand.
